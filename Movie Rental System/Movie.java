@@ -1,5 +1,3 @@
-package moviesystem;
-
 public class Movie {
     // Private attributes
     private String title;
@@ -106,3 +104,4 @@ public class Movie {
         System.out.println("==============================");
     }
 }
+
