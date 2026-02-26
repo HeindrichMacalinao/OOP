@@ -1,5 +1,3 @@
-package moviesystem;
-
 public class RentalStore {
     public static void main(String[] args) {
         // 1. Create 2 Movie objects
@@ -37,3 +35,4 @@ public class RentalStore {
         movie1.displayInfo();
     }
 }
+
