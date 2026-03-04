@@ -1,2 +1,2 @@
 # OOP
-Collection of codes I created while studying Object-Oriented Programming
+This repository contains a collection of programs and exercises developed during my study of Object-Oriented Programming (OOP).
