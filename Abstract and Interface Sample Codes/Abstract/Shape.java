@@ -1,5 +1,3 @@
-package abstractandinterface;
-
 public abstract class Shape {
     protected String color;
     protected double area;
