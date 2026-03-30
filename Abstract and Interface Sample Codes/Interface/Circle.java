@@ -1,5 +1,3 @@
-package interface1;
-
 public class Circle implements Drawable {
     private double radius;
 
