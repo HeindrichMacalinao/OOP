@@ -1,4 +1,3 @@
-package abstractandinterface;
 public class Main {
     public static void main(String[] args) {
         // Cannot do: Shape s = new Shape("Red"); // ERROR!
