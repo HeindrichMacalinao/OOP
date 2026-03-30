@@ -1,5 +1,3 @@
-package interface1;
-
 public class Rectangle implements Drawable {
     private double width, height;
 
