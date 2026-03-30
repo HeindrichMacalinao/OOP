@@ -1,5 +1,3 @@
-package interface1;
-
 public class Main {
     public static void main (String[] args) {
         // Polymorphism with interfaces
